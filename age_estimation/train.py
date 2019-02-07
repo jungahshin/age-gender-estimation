@@ -16,7 +16,7 @@ def get_args():
                         help="path to the UTK face dataset")
     parser.add_argument("--output_dir", type=str, default="checkpoints",
                         help="checkpoint dir")
-    parser.add_argument("--batch_size", type=int, default=32,
+    parser.add_argument("--batch_size", type=int, default=10,
                         help="batch size")
     parser.add_argument("--nb_epochs", type=int, default=30,
                         help="number of epochs")

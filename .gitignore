@@ -1,5 +1,11 @@
 ### https://raw.github.com/github/gitignore/f57304e9762876ae4c9b02867ed0cb887316387e/Python.gitignore
 
+./appa-real
+appa-real/
+./utkface
+utkface/
+./ven
+ven/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
